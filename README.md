@@ -5,8 +5,8 @@
 - ✨ Or for more information, visit https://heysia.dev
 
 <details>
-  <summary>Spoiler!</summary>
-  OMEGALUL
+  <summary>😉???</summary>
+  ![image](https://user-images.githubusercontent.com/82391553/159412485-1bb828de-5453-45a6-8db8-19d41ee410cb.png)
 </details>
 
 <!---
