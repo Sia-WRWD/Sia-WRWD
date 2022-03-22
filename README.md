@@ -6,7 +6,7 @@
 
 <details>
   <summary>😉???</summary>
-  <img src="ayaya.png">
+  <img src="ayaya-3.png">
 </details>
 
 <!---
