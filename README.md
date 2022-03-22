@@ -6,7 +6,7 @@
 
 <details>
   <summary>😉???</summary>
-  ![image](https://user-images.githubusercontent.com/82391553/159412485-1bb828de-5453-45a6-8db8-19d41ee410cb.png)
+  <img src="ayaya.png">
 </details>
 
 <!---
