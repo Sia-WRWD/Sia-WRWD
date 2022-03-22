@@ -4,6 +4,11 @@
 - 📫 You can reach me at chinojen7@gmail.com
 - ✨ Or for more information, visit https://heysia.dev
 
+<details>
+  <summary>Spoiler!</summary>
+  OMEGALUL
+</details>
+
 <!---
 Sia-WRWD/Sia-WRWD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
