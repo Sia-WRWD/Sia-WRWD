@@ -1,6 +1,6 @@
 <h3>Some Information About Me</h3>
 <ul>
-  <li>👋 Hi, I’m @Sia-WRWD </li>
+  <li>👋 Hi, I’m Sia </li>
   <li> 👀 I’m interested in Anime, Coding, Meeting New People and Exploring the Unknowns in the World! </li>
   <li> 📫 You can reach me at chinojen7@gmail.com </li>
   <li> ✨ Or for more information, visit https://heysia.dev </li>
@@ -10,7 +10,7 @@
 <ul>
   <li> Basic HTML, CSS and JS. </li>
   <li> Front-End: BootStrap, NgZorro, Angular Material. </li>
-  <li> Back-End: PHP, Java, C++, MYSQL, SQL, NoSQL, Firestore. </li>
+  <li> Back-End: PHP, Java, C++, MYSQL, SQL, NoSQL, Firestore, C#. </li>
   <li> JavaScript Frameworks: React & Angular. </li>
   <li> Data Analysis: Python, R. </li>
   <li> Graphical Language: G (LabView). </li>
