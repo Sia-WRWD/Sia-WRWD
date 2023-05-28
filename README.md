@@ -11,9 +11,10 @@
   <li> Basic HTML, CSS and JS. </li>
   <li> Front-End: BootStrap, NgZorro, Angular Material. </li>
   <li> Back-End: PHP, Java, C++, MYSQL, SQL, NoSQL, Firestore, C#. </li>
-  <li> JavaScript Frameworks: React & Angular. </li>
-  <li> Data Analysis: Python, R. </li>
+  <li> Software Development Frameworks: React, Angular, Java EE. </li>
+  <li> Data Analysis: Python, R, MatLab. </li>
   <li> Graphical Language: G (LabView). </li>
+  <li> AI Frameworks: TensorFlow, Keras. </li>
   <li> Hosting Platforms: Netlify, Firebase. </li>
 </ul>
 
