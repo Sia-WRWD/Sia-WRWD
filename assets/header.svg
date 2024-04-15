@@ -132,7 +132,7 @@
 					animation: 5s ease 0s normal forwards 1 fadeIn;
 				}
 			</style>
-			<image xlink:href="./bg.jpg" class="background">
+			<img src="https://i0.wp.com/anitrendz.net/news/wp-content/uploads/2023/10/bocchi-the-rock-anime-visual.jpg" class="background">
 			<div class="container">
 				<h1>Welcome to my Profile!</h1>
 				<div class="socials">
