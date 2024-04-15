@@ -3,11 +3,11 @@
 		<img src="assets/header.svg" width="800" height="400" alt="Header Intro">
 	<br>
 	<div align="center">
-		[![Official Website][official-shield]](https://www.heysia.dev)
-		[![Steam][steam-shield]](https://steamcommunity.com/id/Sia-WRWD)
-		[![Riot][riot-shield]](https://www.riotgames.com/?gamename=Daijin&tagline=%E5%A4%A7%E8%87%A3%E3%81%AE%E7%8C%AB)
-		[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/Sia-WRWD/)
-		[![DevPost][devpost-shield]](https://devpost.com/Sia-WRWD)
+		[![Official Website][official-shield]][official-url]
+		[![LinkedIn][linkedin-shield]][linkedin-url]
+		[![Steam][steam-shield]][steam-url]
+		[![Riot][riot-shield]][riot-url]
+		[![DevPost][devpost-shield]][devpost-url]
 	</div>
 	<br>
 	<h1 align="left">My Stacks</h1>
@@ -21,7 +21,12 @@
 </div>
 
 [official-shield]: https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white
+[linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [steam-shield]: https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white
 [riot-shield]: https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white
-[linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [devpost-shield]: https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white
+[official-url]: https://www.heysia.dev
+[linkedin-url]: https://www.linkedin.com/in/Sia-WRWD/
+[steam-url]: https://steamcommunity.com/id/Sia-WRWD
+[riot-url]: https://www.riotgames.com/?gamename=Daijin&tagline=%E5%A4%A7%E8%87%A3%E3%81%AE%E7%8C%AB
+[devpost-url]: https://devpost.com/Sia-WRWD
