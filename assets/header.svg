@@ -1,0 +1,137 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				@keyframes fadeInFromTop {
+					0% {
+						opacity: 0;
+						transform: translateY(-50px);
+						/* Start position above by 50px */
+					}
+
+					100% {
+						opacity: 1;
+						transform: translateY(0);
+						/* End position at original position */
+					}
+				}
+
+				@keyframes gradientBackground {
+					0% {
+						color: #E58E9E;
+						/* Start color */
+					}
+
+					33% {
+						color: #7A90C1;
+						/* Middle color */
+					}
+
+					66% {
+						color: #F2C7D1;
+						/* Middle color */
+					}
+
+					100% {
+						color: #E6D6A5;
+						/* End color */
+					}
+				}
+
+				@keyframes rotate {
+					0% {
+						transform: rotate(3deg);
+					}
+
+					100% {
+						transform: rotate(-3deg);
+					}
+				}
+
+				.container {
+					font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
+					display: flex;
+					flex-direction: column;
+					align-items: center;
+					justify-content: center;
+					margin: 0;
+					width: 100%;
+					height: 400px;
+					background-image: url("assets/bg.jpg");
+					background-position: top;
+					object-fit: cover;
+					animation: fadeInFromTop 1s ease-out forwards;
+					border-radius: 10px;
+					text-align: center;
+					position: relative;
+				}
+
+				.container::before {
+					content: "";
+					position: absolute;
+					top: 0;
+					left: 0;
+					width: 100%;
+					height: 100%;
+					background: rgb(0, 0, 0, 0.5);
+				}
+
+				.container .socials {
+					display: flex;
+					flex-direction: row;
+					flex-wrap: wrap;
+					z-index: 3;
+					gap: 15px;
+					color: white;
+					text-shadow: 1px 2px 3px black;
+				}
+
+				.container .socials strong a {
+					text-decoration: none;
+					color: white;
+					transition: 0.3s ease-in-out;
+				}
+
+				.container .socials strong:nth-child(1) a:hover {
+					color: #E58E9E;
+				}
+
+				.container .socials strong:nth-child(2) a:hover {
+					color: #7A90C1;
+				}
+
+				.container .socials strong:nth-child(3) a:hover {
+					color: #F2C7D1;
+				}
+
+				.container .socials strong:nth-child(4) a:hover {
+					color: #E6D6A5;
+				}
+
+				h1 {
+					font-size: 50px;
+					line-height: 1.3;
+					letter-spacing: 5px;
+					text-transform: uppercase;
+					text-shadow: 0 1px 0 #efefef, 0 2px 0 #efefef, 0 3px 0 #efefef, 0 4px 0 #efefef, 0 12px 5px rgba(0, 0, 0, 0.1);
+					animation: rotate ease-in-out 1s infinite alternate, gradientBackground 5s linear infinite;
+				}
+
+				p {
+					font-size: 20px;
+					text-shadow: 0 1px 0 #efefef;
+					animation: 5s ease 0s normal forwards 1 fadeIn;
+				}
+			</style>
+			<div class="container">
+				<h1>Welcome to my Profile!</h1>
+				<div class="socials">
+					<strong><a href="https://www.heysia.dev">Official Website</a></strong> |
+					<strong><a href="https://steamcommunity.com/id/Sia-WRWD">Steam</a></strong> |
+					<strong><a href="https://www.linkedin.com/in/Sia-WRWD/">LinkedIn</a></strong> |
+					<strong><a href="https://devpost.com/Sia-WRWD">DevPost</a></strong>
+				</div>
+			</div>
+		</div>
+	</foreignObject>
+</svg>
