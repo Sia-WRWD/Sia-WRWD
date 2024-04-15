@@ -1,32 +1,30 @@
 <div align="center">
-	<br>
-		<img src="assets/header.svg" width="800" height="400" alt="Header Intro">
-	<br>
-	<div align="center">
-		[![Official Website][official-shield]][official-url]
-		[![LinkedIn][linkedin-shield]][linkedin-url]
-		[![Steam][steam-shield]][steam-url]
-		[![Riot][riot-shield]][riot-url]
-		[![DevPost][devpost-shield]][devpost-url]
-	</div>
-	<br>
-	<h1 align="left">My Stacks</h1>
-
-	<h1 align="left">My Stats</h1>
-	<p align="center">
-		<a href="https://github.com/sia-wrwd">
-			<img src="https://github-readme-stats.vercel.app/api?username=sia-wrwd&hide_border=true&show_icons=true" alt="sia-wrwd's github stats">
-		</a>
-	</p>
+    <br>
+    <img src="assets/header.svg" width="800" height="400" alt="Header Intro">
+    <br>
+    <div align="center">
+        <a href="https://www.heysia.dev">
+            <img src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="Official Website">
+        </a>
+        <a href="https://www.linkedin.com/in/Sia-WRWD/">
+            <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+        <a href="https://steamcommunity.com/id/Sia-WRWD">
+            <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
+        </a>
+        <a href="https://www.riotgames.com/?gamename=Daijin&tagline=%E5%A4%A7%E8%87%A3%E3%81%AE%E7%8C%AB">
+            <img src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white" alt="Riot">
+        </a>
+        <a href="https://devpost.com/Sia-WRWD">
+            <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DevPost">
+        </a>
+    </div>
+    <br>
+    <h1 align="left">My Stacks</h1>
+    <h1 align="left">My Stats</h1>
+    <p align="center">
+        <a href="https://github.com/sia-wrwd">
+            <img src="https://github-readme-stats.vercel.app/api?username=sia-wrwd&hide_border=true&show_icons=true" alt="sia-wrwd's github stats">
+        </a>
+    </p>
 </div>
-
-[official-shield]: https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white
-[linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
-[steam-shield]: https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white
-[riot-shield]: https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white
-[devpost-shield]: https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white
-[official-url]: https://www.heysia.dev
-[linkedin-url]: https://www.linkedin.com/in/Sia-WRWD/
-[steam-url]: https://steamcommunity.com/id/Sia-WRWD
-[riot-url]: https://www.riotgames.com/?gamename=Daijin&tagline=%E5%A4%A7%E8%87%A3%E3%81%AE%E7%8C%AB
-[devpost-url]: https://devpost.com/Sia-WRWD
