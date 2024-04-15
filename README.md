@@ -15,8 +15,8 @@
         <a href="https://www.riotgames.com/?gamename=Daijin&tagline=%E5%A4%A7%E8%87%A3%E3%81%AE%E7%8C%AB">
             <img src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white" alt="Riot">
         </a>
-        <a href="https://devpost.com/Sia-WRWD">
-            <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DevPost">
+        <a href="https://www.hackerrank.com/profile/cheezhensia24">
+            <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank">
         </a>
     </div>
     <br>
