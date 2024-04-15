@@ -57,7 +57,7 @@
 					margin: 0;
 					width: 100%;
 					height: 400px;
-					background-image: url("./bg.jpg");
+					background-image: url("https://github.com/Sia-WRWD/Sia-WRWD/blob/main/assets/bg.jpg");
 					background-position: top;
 					object-fit: cover;
 					animation: fadeInFromTop 1s ease-out forwards;
