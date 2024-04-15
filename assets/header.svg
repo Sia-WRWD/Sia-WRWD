@@ -1,6 +1,6 @@
 <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
+		<div>
 			<style>
 				@keyframes fadeInFromTop {
 					0% {
@@ -48,6 +48,15 @@
 					}
 				}
 
+				.background {
+					width: 100%;
+					height: 400px;
+					object-fit: cover;
+					object-position: top;
+					position: relative;
+					animation: fadeInFromTop 1s ease-out forwards;
+				}
+
 				.container {
 					font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
 					display: flex;
@@ -57,13 +66,13 @@
 					margin: 0;
 					width: 100%;
 					height: 400px;
-					background-image: url("https://i0.wp.com/anitrendz.net/news/wp-content/uploads/2023/10/bocchi-the-rock-anime-visual.jpg");
-					background-position: top;
-					object-fit: cover;
 					animation: fadeInFromTop 1s ease-out forwards;
 					border-radius: 10px;
 					text-align: center;
-					position: relative;
+					position: absolute;
+					top: 0;
+					left: 0;
+					margin: 8px;
 				}
 
 				.container::before {
@@ -123,6 +132,7 @@
 					animation: 5s ease 0s normal forwards 1 fadeIn;
 				}
 			</style>
+			<img src="bg.jpg" class="background">
 			<div class="container">
 				<h1>Welcome to my Profile!</h1>
 				<div class="socials">
