@@ -132,7 +132,9 @@
 					animation: 5s ease 0s normal forwards 1 fadeIn;
 				}
 			</style>
+			<div>
 			<img src="bg.jpg" class="background">
+			</div>
 			<div class="container">
 				<h1>Welcome to my Profile!</h1>
 				<div class="socials">
