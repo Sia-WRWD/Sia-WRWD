@@ -4,19 +4,19 @@
     <img src="assets/header.svg" width="800" height="400" alt="Header Intro">
     <br>
     <div align="center">
-        <a href="https://www.heysia.dev">
+        <a href="https://www.heysia.dev" target="_blank">
             <img src="https://img.shields.io/badge/Official_Website-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="Official Website">
         </a>
-        <a href="https://www.linkedin.com/in/Sia-WRWD/">
+        <a href="https://www.linkedin.com/in/Sia-WRWD/" target="_blank">
             <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
         </a>
-        <a href="https://steamcommunity.com/id/Sia-WRWD">
+        <a href="https://steamcommunity.com/id/Sia-WRWD" target="_blank">
             <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
         </a>
-        <a href="https://www.riotgames.com/?gamename=Daijin&tagline=%E5%A4%A7%E8%87%A3%E3%81%AE%E7%8C%AB">
+        <a href="https://www.riotgames.com/?gamename=Daijin&tagline=%E5%A4%A7%E8%87%A3%E3%81%AE%E7%8C%AB" target="_blank">
             <img src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white" alt="Riot">
         </a>
-        <a href="https://www.hackerrank.com/profile/cheezhensia24">
+        <a href="https://www.hackerrank.com/profile/cheezhensia24" target="_blank">
             <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank">
         </a>
     </div>
@@ -54,9 +54,18 @@
         </div>
     </div>
 </div>
-<br><br><br>
+<br><br>
 <div align="center">
     <h1 align="left">My Stats</h1>
     <img align="left" src="https://media.tenor.com/fKIG2kiLVPgAAAAM/this-is-fine-its-fine.gif" height="185"/>
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=sia-wrwd&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" height="190"/>
+</div>
+<br><br><br><br>
+<div align="center">
+    <h1 align="left">Get in Touch!</h1>
+    <img align="left">
+    <a href="mailto:cheezhensia24@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Get_In_Touch!-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Steam">
+    </a>
+    <img align="right src="assets/point-left.png">
 </div>
