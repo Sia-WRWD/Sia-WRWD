@@ -67,5 +67,5 @@
     <a href="mailto:cheezhensia24@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Get_In_Touch!-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Steam">
     </a>
-    <img align="right" src="assets/point-left.png" alt="point-left">
+    <img align="right" src="assets/point-left.png" alt="anime-point-left">
 </div>
