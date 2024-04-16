@@ -22,7 +22,7 @@
     <br>
     <h1 align="left">My Stacks</h1>
     <div align="left">
-        <img align="right" alt="GIF" src="assets/coding.gif" width="490" height="300" />
+        <img align="right" alt="GIF" src="assets/coding.gif" width="300" height="300" />
         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sia-wrwd&layout=pie&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" height="300" />
         <div align="center">
             <div>
