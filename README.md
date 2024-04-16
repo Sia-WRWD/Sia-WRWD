@@ -4,7 +4,7 @@
     <br>
     <div align="center">
         <a href="https://www.heysia.dev">
-            <img src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="Official Website">
+            <img src="https://img.shields.io/badge/Official_Website-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="Official Website">
         </a>
         <a href="https://www.linkedin.com/in/Sia-WRWD/">
             <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
