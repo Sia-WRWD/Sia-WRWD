@@ -60,7 +60,7 @@
     <img align="left" src="https://media.tenor.com/fKIG2kiLVPgAAAAM/this-is-fine-its-fine.gif" height="185"/>
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=sia-wrwd&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" height="190"/>
 </div>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 <div align="center">
     <h1 align="left">Get in Touch!</h1>
     <img align="right" src="assets/anime-point-left.png" alt="anime-point-left" height="400">
