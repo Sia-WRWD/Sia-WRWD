@@ -54,7 +54,8 @@
     </div>
 </div>
 <br><br><br>
-<div>
+<div align="center">
     <h1 align="left">My Stats</h1>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sia-wrwd&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" height="200"/>
+    <img align="left" src="https://media.tenor.com/fKIG2kiLVPgAAAAM/this-is-fine-its-fine.gif" height="200"/>
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=sia-wrwd&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" height="200"/>
 </div>
